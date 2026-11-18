@@ -7,7 +7,7 @@ A mobile app built with **React Native**, **Expo** and **Expo Router** (JavaScri
 
 ## Demo Video
 
-[Watch the demo video](https://youtu.be/YOUR_VIDEO_ID)
+[Watch the demo video](https://drive.google.com/file/d/1WGXOWYhY0w-SGvEzjtg9MYLDQOuK3LVr/view?usp=sharing)
 
 ---
 
